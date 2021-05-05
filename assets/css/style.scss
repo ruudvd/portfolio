@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+.circular {
+	width: 320px;
+	height: 320px;
+	border-radius: 160px;
+	-webkit-border-radius: 160px;
+	-moz-border-radius: 160px;
+	background: url(https://github.com/ruudvd/portfolio/blob/main/assets/images/pp.jpg?raw=true) no-repeat;
+    margin: auto;
+    }
+
+.circular img {
+	opacity: 0;
+	filter: alpha(opacity=0);
+    margin: auto;
+	}
