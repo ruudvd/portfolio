@@ -8,4 +8,4 @@
 layout: home
 ---
 
-Welcome to my portfolio website!
+I am a pragmatic engineer who likes to develop and maintain state of the art technology with a main focus on software, mechatronics and robotics.

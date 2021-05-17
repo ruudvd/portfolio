@@ -12,7 +12,6 @@ theme: jekyll-theme-cayman
 # plugins:
 
 show_downloads: false
-is_project_page: false
 google_analytics: G-SERYNGYD3W
 
 # Exclude from processing.
